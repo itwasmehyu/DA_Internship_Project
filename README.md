@@ -1,7 +1,9 @@
 # Data Analysis Internship Project 
 
 ## 📌 Giới Thiệu
-Dự án này tập trung vào việc phân tích và xử lý dữ liệu [Ví dụ: hành vi người dùng/doanh thu quảng cáo] nhằm tìm ra các Insight quan trọng phục vụ cho việc ra quyết định kinh doanh. Đây là dự án trong khuôn khổ chương trình thực tập.
+Dự án này tập trung vào việc phân tích và xử lý dữ liệu về hành vi người dùng,doanh thu quảng cáo,... nhằm tìm ra các Insight quan trọng phục vụ cho việc ra quyết định kinh doanh. Đây là dự án trong khuôn khổ chương trình thực tập.
+
+Các thông tin, kết quả nghiên cứu của dự án này nằm trong file "Báo cáo Project thực tập.docx".
 
 ## 📊 Dữ Liệu (Dataset)
 Do giới hạn kích thước file của GitHub (Max 100MB), các tập dữ liệu thô và dữ liệu đã qua xử lý (lên tới 4GB) được lưu trữ trên Google Drive.
